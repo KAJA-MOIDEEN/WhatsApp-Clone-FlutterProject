@@ -2,8 +2,8 @@
 
 ## Overview
 
-This is a WhatsApp clone developed using Flutter. It replicates core features of WhatsApp including 
-user authentication, chat functionality, and media sharing.
+This is a WhatsApp clone developed using Flutter in Android Studio. It replicates core features of
+WhatsApp including user authentication, chat functionality, and media sharing.
 
 ## Features
  - Real-time Chat: Engage in real-time conversations with other users.
